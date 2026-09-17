@@ -1,0 +1,185 @@
+Date,Type,Produit,Quantite,Categorie,Motif,Utilisateur
+2026-05-22,Sortie,Ordinateur portable Dell,8,Informatique,Livraison client,chahd
+2026-05-22,Sortie,Souris sans fil Logitech,18,Informatique,Vente,admin
+2026-05-23,Entrée,Ordinateur portable Dell,8,Informatique,Utilisation interne,admin
+2026-05-23,Entrée,Bureau ajustable,21,Mobilier,Retour fournisseur,admin
+2026-05-24,Sortie,Chaise de bureau,1,Mobilier,Livraison client,admin
+2026-05-24,Entrée,Ramette papier A4,7,Bureautique,Vente,chahd
+2026-05-24,Entrée,Stylo bille Bic (boite),12,Bureautique,Utilisation interne,chahd
+2026-05-25,Sortie,Cable HDMI 2m,4,Informatique,Transfert agence,chahd
+2026-05-25,Sortie,Imprimante Canon,20,Bureautique,Utilisation interne,admin
+2026-05-26,Sortie,Ordinateur portable Dell,25,Informatique,Utilisation interne,admin
+2026-05-26,Entrée,Multiprise 6 prises,4,Electricite,Livraison client,chahd
+2026-05-27,Entrée,Clavier mécanique HP,7,Informatique,Retour fournisseur,chahd
+2026-05-27,Sortie,Classeur A4,3,Bureautique,Casse/Perte,admin
+2026-05-27,Sortie,Bureau ajustable,6,Mobilier,Transfert agence,admin
+2026-05-27,Sortie,Classeur A4,18,Bureautique,Livraison client,admin
+2026-05-28,Sortie,Ecran 24 pouces Samsung,11,Informatique,Transfert agence,chahd
+2026-05-28,Sortie,Ecran 24 pouces Samsung,19,Informatique,Utilisation interne,chahd
+2026-05-29,Sortie,Stylo bille Bic (boite),21,Bureautique,Transfert agence,chahd
+2026-05-29,Entrée,Clavier mécanique HP,18,Informatique,Utilisation interne,chahd
+2026-05-29,Entrée,Casque audio Sony,19,Informatique,Livraison client,admin
+2026-05-29,Sortie,Clavier mécanique HP,3,Informatique,Vente,admin
+2026-05-29,Sortie,Clavier mécanique HP,22,Informatique,Transfert agence,admin
+2026-05-30,Sortie,Stylo bille Bic (boite),15,Bureautique,Casse/Perte,chahd
+2026-05-30,Sortie,Bureau ajustable,1,Mobilier,Vente,admin
+2026-05-30,Sortie,Bureau ajustable,25,Mobilier,Utilisation interne,chahd
+2026-05-30,Entrée,Stylo bille Bic (boite),1,Bureautique,Retour fournisseur,admin
+2026-05-30,Sortie,Imprimante Canon,25,Bureautique,Livraison client,admin
+2026-05-31,Sortie,Multiprise 6 prises,21,Electricite,Casse/Perte,admin
+2026-05-31,Entrée,Clavier mécanique HP,6,Informatique,Utilisation interne,admin
+2026-06-01,Entrée,Classeur A4,11,Bureautique,Livraison client,chahd
+2026-06-01,Entrée,Classeur A4,10,Bureautique,Réapprovisionnement,chahd
+2026-06-01,Sortie,Classeur A4,3,Bureautique,Vente,admin
+2026-06-01,Entrée,Multiprise 6 prises,25,Electricite,Utilisation interne,admin
+2026-06-01,Sortie,Clavier mécanique HP,18,Informatique,Livraison client,chahd
+2026-06-01,Sortie,Multiprise 6 prises,7,Electricite,Casse/Perte,admin
+2026-06-02,Entrée,Cable HDMI 2m,22,Informatique,Retour fournisseur,admin
+2026-06-02,Sortie,Classeur A4,4,Bureautique,Livraison client,chahd
+2026-06-02,Entrée,Ramette papier A4,18,Bureautique,Réapprovisionnement,admin
+2026-06-03,Sortie,Souris sans fil Logitech,2,Informatique,Livraison client,chahd
+2026-06-03,Sortie,Ordinateur portable Dell,3,Informatique,Casse/Perte,chahd
+2026-06-04,Sortie,Ecran 24 pouces Samsung,24,Informatique,Casse/Perte,admin
+2026-06-04,Sortie,Ecran 24 pouces Samsung,14,Informatique,Livraison client,chahd
+2026-06-04,Entrée,Disque dur externe 1To,14,Informatique,Livraison client,admin
+2026-06-04,Entrée,Cable HDMI 2m,21,Informatique,Retour fournisseur,chahd
+2026-06-04,Sortie,Stylo bille Bic (boite),4,Bureautique,Livraison client,chahd
+2026-06-05,Entrée,Chaise de bureau,6,Mobilier,Vente,admin
+2026-06-05,Sortie,Multiprise 6 prises,15,Electricite,Casse/Perte,chahd
+2026-06-05,Sortie,Disque dur externe 1To,1,Informatique,Vente,admin
+2026-06-05,Entrée,Multiprise 6 prises,14,Electricite,Livraison client,admin
+2026-06-05,Entrée,Multiprise 6 prises,2,Electricite,Réapprovisionnement,admin
+2026-06-05,Entrée,Stylo bille Bic (boite),15,Bureautique,Vente,admin
+2026-06-06,Sortie,Disque dur externe 1To,5,Informatique,Livraison client,chahd
+2026-06-06,Sortie,Ordinateur portable Dell,18,Informatique,Vente,admin
+2026-06-06,Entrée,Ordinateur portable Dell,16,Informatique,Utilisation interne,admin
+2026-06-06,Entrée,Bureau ajustable,17,Mobilier,Achat fournisseur,admin
+2026-06-06,Sortie,Souris sans fil Logitech,22,Informatique,Livraison client,admin
+2026-06-06,Sortie,Classeur A4,19,Bureautique,Casse/Perte,chahd
+2026-06-07,Sortie,Stylo bille Bic (boite),19,Bureautique,Casse/Perte,admin
+2026-06-07,Entrée,Imprimante Canon,23,Bureautique,Vente,chahd
+2026-06-08,Sortie,Clavier mécanique HP,10,Informatique,Transfert agence,admin
+2026-06-08,Sortie,Onduleur APC,1,Electricite,Transfert agence,admin
+2026-06-08,Sortie,Casque audio Sony,3,Informatique,Casse/Perte,chahd
+2026-06-08,Entrée,Imprimante Canon,12,Bureautique,Achat fournisseur,admin
+2026-06-08,Entrée,Ramette papier A4,15,Bureautique,Utilisation interne,admin
+2026-06-09,Sortie,Onduleur APC,1,Electricite,Casse/Perte,chahd
+2026-06-09,Entrée,Disque dur externe 1To,5,Informatique,Vente,chahd
+2026-06-09,Sortie,Souris sans fil Logitech,5,Informatique,Utilisation interne,chahd
+2026-06-09,Sortie,Ecran 24 pouces Samsung,7,Informatique,Utilisation interne,admin
+2026-06-09,Sortie,Imprimante Canon,2,Bureautique,Vente,admin
+2026-06-09,Entrée,Multiprise 6 prises,1,Electricite,Vente,admin
+2026-06-10,Sortie,Clavier mécanique HP,18,Informatique,Transfert agence,admin
+2026-06-10,Entrée,Souris sans fil Logitech,23,Informatique,Réapprovisionnement,admin
+2026-06-10,Entrée,Multiprise 6 prises,18,Electricite,Réapprovisionnement,admin
+2026-06-10,Entrée,Ordinateur portable Dell,2,Informatique,Vente,chahd
+2026-06-11,Entrée,Disque dur externe 1To,25,Informatique,Utilisation interne,admin
+2026-06-11,Sortie,Stylo bille Bic (boite),24,Bureautique,Livraison client,admin
+2026-06-11,Sortie,Ecran 24 pouces Samsung,6,Informatique,Transfert agence,chahd
+2026-06-12,Sortie,Onduleur APC,22,Electricite,Livraison client,chahd
+2026-06-12,Sortie,Onduleur APC,13,Electricite,Vente,admin
+2026-06-12,Entrée,Ecran 24 pouces Samsung,15,Informatique,Vente,admin
+2026-06-12,Sortie,Onduleur APC,8,Electricite,Vente,admin
+2026-06-13,Entrée,Ramette papier A4,3,Bureautique,Vente,admin
+2026-06-13,Entrée,Bureau ajustable,18,Mobilier,Vente,admin
+2026-06-13,Sortie,Souris sans fil Logitech,9,Informatique,Livraison client,admin
+2026-06-13,Entrée,Imprimante Canon,20,Bureautique,Livraison client,admin
+2026-06-13,Entrée,Onduleur APC,20,Electricite,Utilisation interne,chahd
+2026-06-14,Entrée,Ecran 24 pouces Samsung,23,Informatique,Livraison client,chahd
+2026-06-14,Sortie,Classeur A4,22,Bureautique,Livraison client,admin
+2026-06-14,Sortie,Souris sans fil Logitech,11,Informatique,Casse/Perte,admin
+2026-06-14,Entrée,Multiprise 6 prises,10,Electricite,Utilisation interne,admin
+2026-06-14,Entrée,Stylo bille Bic (boite),23,Bureautique,Vente,admin
+2026-06-14,Entrée,Ecran 24 pouces Samsung,13,Informatique,Retour fournisseur,admin
+2026-06-15,Sortie,Casque audio Sony,13,Informatique,Casse/Perte,admin
+2026-06-15,Entrée,Imprimante Canon,14,Bureautique,Utilisation interne,admin
+2026-06-15,Sortie,Ramette papier A4,15,Bureautique,Livraison client,admin
+2026-06-16,Entrée,Disque dur externe 1To,17,Informatique,Retour fournisseur,admin
+2026-06-16,Entrée,Ramette papier A4,25,Bureautique,Réapprovisionnement,admin
+2026-06-16,Sortie,Ecran 24 pouces Samsung,5,Informatique,Vente,chahd
+2026-06-17,Sortie,Casque audio Sony,3,Informatique,Transfert agence,admin
+2026-06-17,Sortie,Disque dur externe 1To,23,Informatique,Transfert agence,admin
+2026-06-17,Entrée,Ecran 24 pouces Samsung,23,Informatique,Achat fournisseur,admin
+2026-06-17,Sortie,Multiprise 6 prises,4,Electricite,Transfert agence,chahd
+2026-06-17,Sortie,Onduleur APC,17,Electricite,Transfert agence,chahd
+2026-06-18,Sortie,Classeur A4,15,Bureautique,Livraison client,admin
+2026-06-18,Sortie,Disque dur externe 1To,18,Informatique,Casse/Perte,admin
+2026-06-18,Sortie,Onduleur APC,20,Electricite,Casse/Perte,admin
+2026-06-19,Sortie,Chaise de bureau,24,Mobilier,Transfert agence,admin
+2026-06-19,Entrée,Onduleur APC,21,Electricite,Vente,admin
+2026-06-19,Sortie,Bureau ajustable,8,Mobilier,Utilisation interne,admin
+2026-06-19,Entrée,Cable HDMI 2m,9,Informatique,Vente,admin
+2026-06-19,Entrée,Bureau ajustable,5,Mobilier,Réapprovisionnement,admin
+2026-06-19,Sortie,Clavier mécanique HP,3,Informatique,Transfert agence,admin
+2026-06-20,Entrée,Chaise de bureau,7,Mobilier,Livraison client,admin
+2026-06-20,Sortie,Onduleur APC,23,Electricite,Vente,admin
+2026-06-20,Sortie,Onduleur APC,16,Electricite,Vente,admin
+2026-06-20,Sortie,Imprimante Canon,14,Bureautique,Casse/Perte,admin
+2026-06-20,Sortie,Bureau ajustable,8,Mobilier,Transfert agence,chahd
+2026-06-20,Sortie,Stylo bille Bic (boite),13,Bureautique,Utilisation interne,admin
+2026-06-21,Entrée,Cable HDMI 2m,15,Informatique,Réapprovisionnement,admin
+2026-06-21,Entrée,Bureau ajustable,13,Mobilier,Utilisation interne,admin
+2026-06-21,Entrée,Ordinateur portable Dell,14,Informatique,Réapprovisionnement,admin
+2026-06-21,Entrée,Clavier mécanique HP,13,Informatique,Vente,chahd
+2026-06-21,Entrée,Ramette papier A4,13,Bureautique,Vente,admin
+2026-06-22,Sortie,Imprimante Canon,16,Bureautique,Vente,admin
+2026-06-22,Sortie,Ordinateur portable Dell,12,Informatique,Livraison client,admin
+2026-06-22,Sortie,Onduleur APC,2,Electricite,Vente,admin
+2026-06-22,Sortie,Ecran 24 pouces Samsung,20,Informatique,Livraison client,chahd
+2026-06-22,Sortie,Chaise de bureau,19,Mobilier,Livraison client,admin
+2026-06-23,Entrée,Onduleur APC,20,Electricite,Utilisation interne,admin
+2026-06-23,Entrée,Cable HDMI 2m,6,Informatique,Vente,chahd
+2026-06-23,Sortie,Ordinateur portable Dell,19,Informatique,Transfert agence,admin
+2026-06-23,Entrée,Cable HDMI 2m,19,Informatique,Retour fournisseur,admin
+2026-06-24,Sortie,Souris sans fil Logitech,10,Informatique,Casse/Perte,admin
+2026-06-24,Sortie,Onduleur APC,2,Electricite,Utilisation interne,admin
+2026-06-24,Entrée,Disque dur externe 1To,17,Informatique,Retour fournisseur,admin
+2026-06-25,Sortie,Multiprise 6 prises,14,Electricite,Utilisation interne,admin
+2026-06-25,Sortie,Multiprise 6 prises,5,Electricite,Transfert agence,chahd
+2026-06-25,Sortie,Bureau ajustable,9,Mobilier,Casse/Perte,admin
+2026-06-25,Sortie,Bureau ajustable,15,Mobilier,Transfert agence,admin
+2026-06-25,Entrée,Casque audio Sony,8,Informatique,Achat fournisseur,chahd
+2026-06-26,Sortie,Ecran 24 pouces Samsung,19,Informatique,Casse/Perte,admin
+2026-06-26,Entrée,Ramette papier A4,11,Bureautique,Réapprovisionnement,admin
+2026-06-26,Sortie,Ramette papier A4,11,Bureautique,Utilisation interne,admin
+2026-06-26,Sortie,Cable HDMI 2m,18,Informatique,Vente,admin
+2026-06-26,Entrée,Ecran 24 pouces Samsung,24,Informatique,Livraison client,admin
+2026-06-27,Sortie,Cable HDMI 2m,23,Informatique,Transfert agence,admin
+2026-06-27,Entrée,Ordinateur portable Dell,8,Informatique,Livraison client,admin
+2026-06-27,Sortie,Imprimante Canon,12,Bureautique,Transfert agence,admin
+2026-06-28,Sortie,Stylo bille Bic (boite),18,Bureautique,Utilisation interne,admin
+2026-06-28,Entrée,Chaise de bureau,9,Mobilier,Réapprovisionnement,chahd
+2026-06-28,Entrée,Ecran 24 pouces Samsung,24,Informatique,Utilisation interne,admin
+2026-06-28,Entrée,Cable HDMI 2m,7,Informatique,Retour fournisseur,admin
+2026-06-29,Sortie,Onduleur APC,10,Electricite,Vente,admin
+2026-06-29,Entrée,Imprimante Canon,6,Bureautique,Vente,chahd
+2026-06-29,Entrée,Bureau ajustable,2,Mobilier,Achat fournisseur,admin
+2026-06-29,Sortie,Cable HDMI 2m,21,Informatique,Transfert agence,chahd
+2026-06-29,Sortie,Ordinateur portable Dell,16,Informatique,Transfert agence,admin
+2026-06-29,Sortie,Clavier mécanique HP,9,Informatique,Transfert agence,chahd
+2026-06-30,Sortie,Stylo bille Bic (boite),19,Bureautique,Vente,chahd
+2026-06-30,Sortie,Onduleur APC,10,Electricite,Vente,admin
+2026-07-01,Sortie,Bureau ajustable,20,Mobilier,Casse/Perte,admin
+2026-07-01,Sortie,Ecran 24 pouces Samsung,13,Informatique,Transfert agence,admin
+2026-07-02,Sortie,Multiprise 6 prises,14,Electricite,Utilisation interne,admin
+2026-07-02,Sortie,Ordinateur portable Dell,24,Informatique,Vente,admin
+2026-07-02,Sortie,Ecran 24 pouces Samsung,9,Informatique,Vente,chahd
+2026-07-02,Sortie,Clavier mécanique HP,6,Informatique,Vente,admin
+2026-07-03,Entrée,Chaise de bureau,8,Mobilier,Vente,admin
+2026-07-03,Sortie,Cable HDMI 2m,3,Informatique,Livraison client,admin
+2026-07-03,Sortie,Onduleur APC,19,Electricite,Livraison client,admin
+2026-07-03,Entrée,Bureau ajustable,5,Mobilier,Vente,admin
+2026-07-03,Entrée,Souris sans fil Logitech,10,Informatique,Utilisation interne,admin
+2026-07-03,Sortie,Casque audio Sony,15,Informatique,Vente,admin
+2026-07-04,Entrée,Cable HDMI 2m,9,Informatique,Utilisation interne,admin
+2026-07-04,Entrée,Chaise de bureau,2,Mobilier,Livraison client,admin
+2026-07-04,Entrée,Casque audio Sony,3,Informatique,Réapprovisionnement,admin
+2026-07-04,Sortie,Multiprise 6 prises,19,Electricite,Vente,admin
+2026-07-05,Entrée,Casque audio Sony,25,Informatique,Réapprovisionnement,admin
+2026-07-05,Entrée,Disque dur externe 1To,9,Informatique,Réapprovisionnement,admin
+2026-07-05,Sortie,Stylo bille Bic (boite),16,Bureautique,Vente,admin
+2026-07-05,Entrée,Stylo bille Bic (boite),22,Bureautique,Achat fournisseur,admin
+2026-09-16,Entrée,Casque audio Sony,1,Informatique,Transfert agence,chahd
+2026-09-16,Sortie,Ordinateur portable Dell,21,Informatique,Vente,chahd
+2026-09-17,Entrée,Ordinateur portable Dell,2,Informatique,Vente,chahd
+2026-09-17,Sortie,Ordinateur portable Dell,2,Informatique,Vente,chahd

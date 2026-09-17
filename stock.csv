@@ -1,0 +1,16 @@
+id,produit,categorie,quantite,seuil_alerte,prix_unitaire,fournisseur
+1,Ordinateur portable Dell,Informatique,4,10,7500,TechDistrib
+2,Souris sans fil Logitech,Informatique,120,30,150,TechDistrib
+3,Clavier mécanique HP,Informatique,60,20,450,TechDistrib
+4,Ecran 24 pouces Samsung,Informatique,18,10,1800,ElectroPlus
+5,Imprimante Canon,Bureautique,12,5,2200,BureauPro
+6,Ramette papier A4,Bureautique,300,100,35,BureauPro
+7,Stylo bille Bic (boite),Bureautique,80,50,20,BureauPro
+8,Chaise de bureau,Mobilier,15,8,900,MobilierPlus
+9,Bureau ajustable,Mobilier,8,5,2500,MobilierPlus
+10,Casque audio Sony,Informatique,41,15,600,TechDistrib
+11,Disque dur externe 1To,Informatique,22,10,550,TechDistrib
+12,Cable HDMI 2m,Informatique,150,50,45,ElectroPlus
+13,Onduleur APC,Electricite,10,5,1100,ElectroPlus
+14,Multiprise 6 prises,Electricite,65,20,85,ElectroPlus
+15,Classeur A4,Bureautique,90,40,25,BureauPro
